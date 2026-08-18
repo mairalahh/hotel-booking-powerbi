@@ -59,7 +59,29 @@ The Power BI dashboard consists of **five main analytical sections**:
 
 ---
 
-# 1. 📈 Executive Overview
+# 1. 📅 Booking Demand Analysis
+
+The Booking Demand Analysis page examines how booking demand changes across time, hotel types, countries, and customer categories.
+
+### Analysis Includes
+
+* Booking demand over time
+* Booking demand by hotel type
+* Booking demand by country
+* Booking demand by customer type
+
+### Key Insights
+
+* **City Hotel** contributes a larger proportion of total bookings compared with Resort Hotel.
+* **Transient customers** represent the largest customer group.
+* Booking demand varies across different months, indicating seasonal patterns.
+* Understanding demand patterns can help hotels plan their operations and resources more effectively.
+
+![Booking Demand Analysis](booking-demand-analysis.png)
+
+---
+
+# 2. 📈 Executive Overview
 
 The Executive Overview provides a summary of the overall hotel booking performance.
 
@@ -79,28 +101,6 @@ This page provides an overall view of booking activity and allows comparison bet
 It also presents booking trends over time and provides an overview of the overall cancellation situation.
 
 ![Executive Overview](executive-overview.png)
-
----
-
-# 2. 📅 Booking Demand Analysis
-
-The Booking Demand Analysis page examines how booking demand changes across time, hotel types, countries, and customer categories.
-
-### Analysis Includes
-
-* Booking demand over time
-* Booking demand by hotel type
-* Booking demand by country
-* Booking demand by customer type
-
-### Key Insights
-
-* **City Hotel** contributes a larger proportion of total bookings compared with Resort Hotel.
-* **Transient customers** represent the largest customer group.
-* Booking demand varies across different months, indicating seasonal patterns.
-* Understanding demand patterns can help hotels plan their operations and resources more effectively.
-
-![Booking Demand Analysis](booking-demand-analysis.png)
 
 ---
 
@@ -283,25 +283,25 @@ The `.pbix` file contains the Power BI report and dashboard developed for this p
 
 # 🖼️ Dashboard Preview
 
-## Executive Overview
-
-![Executive Overview](dashboard/executive-overview.png)
-
 ## Booking Demand Analysis
 
-![Booking Demand Analysis](dashboard/booking-demand-analysis.png)
+![Booking Demand Analysis](booking-demand-analysis.png)
+
+## Executive Overview
+
+![Executive Overview](executive-overview.png)
 
 ## Cancellation Analysis
 
-![Cancellation Analysis](dashboard/cancellation-analysis.png)
+![Cancellation Analysis](cancellation-analysis.png)
 
 ## Hotel Performance & Revenue
 
-![Hotel Performance & Revenue](dashboard/hotel-performance-revenue.png)
+![Hotel Performance & Revenue](hotel-performance-revenue.png)
 
 ## Insights & Recommendations
 
-![Insights & Recommendations](dashboard/insights-recommendations.png)
+![Insights & Recommendations](insights-recommendations.png)
 
 ---
 
