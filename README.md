@@ -78,7 +78,7 @@ This page provides an overall view of booking activity and allows comparison bet
 
 It also presents booking trends over time and provides an overview of the overall cancellation situation.
 
-![Executive Overview](dashboard/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ---
 
@@ -100,7 +100,7 @@ The Booking Demand Analysis page examines how booking demand changes across time
 * Booking demand varies across different months, indicating seasonal patterns.
 * Understanding demand patterns can help hotels plan their operations and resources more effectively.
 
-![Booking Demand Analysis](dashboard/booking-demand-analysis.png)
+![Booking Demand Analysis](booking-demand-analysis.png)
 
 ---
 
@@ -131,7 +131,7 @@ The analysis also shows differences in cancellation behavior across customer typ
 
 These patterns can help hotel management identify areas where cancellation policies and booking strategies may need improvement.
 
-![Cancellation Analysis](dashboard/cancellation-analysis.png)
+![Cancellation Analysis](cancellation-analysis.png)
 
 ---
 
@@ -162,7 +162,7 @@ The Hotel Performance & Revenue page evaluates hotel performance using pricing, 
 * ADR changes across different months, indicating seasonal pricing patterns.
 * Monitoring both pricing and cancellation behavior can help improve revenue management decisions.
 
-![Hotel Performance & Revenue](dashboard/hotel-performance-revenue.png)
+![Hotel Performance & Revenue](hotel-performance-revenue.png)
 
 ---
 
@@ -216,7 +216,7 @@ Marketing strategies can be tailored toward customer groups and market segments 
 
 Hotels can develop incentives for direct bookings to strengthen customer relationships and potentially reduce reliance on third-party booking channels.
 
-![Insights & Recommendations](dashboard/insights-recommendations.png)
+![Insights & Recommendations](insights-recommendations.png)
 
 ---
 
